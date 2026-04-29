@@ -1,0 +1,37 @@
+.navbar {
+    height: 60px;
+    background-color: #e15669;
+    z-index: 1;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.navbar-header {
+    padding: 0 0;
+}
+
+.navbar-brand {
+    color: #fff;
+    padding: 0 20px 0px 20px;
+    height: 60px;
+    line-height: 60px;
+    text-align: left;
+    font-size: 20px;
+    display: block;
+    text-transform: uppercase
+}
+
+.navlist {
+    padding: 0 5px;
+    width: 200px;
+    transition: height .5s;
+    z-index: 1;
+    text-decoration: none;
+    color: #fff;
+}
+
+.elem-center {
+    text-align: center;
+}

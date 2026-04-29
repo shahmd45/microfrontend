@@ -1,0 +1,16 @@
+.checkout__main {
+  padding: 40px;
+}
+
+.payment_button {
+  color: white;
+  background-color: #af101a;
+  height: 52px;
+  outline: none;
+  border: 1px solid #af101a;
+  border-radius: 8px;
+  cursor: pointer;
+  font-size: 16px;
+  width: 300px;
+  margin-top: 20px;
+}
